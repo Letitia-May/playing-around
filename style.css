@@ -1,0 +1,7 @@
+body {
+	font-family: Helvetica;
+}
+
+#successfulGif, #otherSuccessfulGif, #incorrectGif {
+	display: none;
+}
